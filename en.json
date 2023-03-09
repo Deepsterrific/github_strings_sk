@@ -29,6 +29,5 @@
   "app.signup.password_forgot": "Forgot Password",
   "app.subtitle": "i18n Demo App",
   "app.title": "Demo App",
-  "app.welcome": "Hello!",
-  "new.key": "New Key"
+  "app.welcome": "Hello!"
 }
