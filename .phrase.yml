@@ -6,9 +6,6 @@ phrase:
       - file: ./<locale_name>.json
         params:
           file_format: simple_json
-          locale_id: en
-          update_translations: true
-          autotranslate: true
 
   pull:
     targets:
