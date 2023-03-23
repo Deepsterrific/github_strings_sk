@@ -13,6 +13,5 @@
   "app.signup": "SIGN UP",
   "app.signup.password": "Password",
   "app.signup.password_forgot": "Forgot password?",
-  "app.welcome": "Hello!",
-  "app.newkey": "new key"
+  "app.welcome": "Hello!"
 }
