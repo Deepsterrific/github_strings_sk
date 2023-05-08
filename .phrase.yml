@@ -8,6 +8,7 @@ phrase:
           file_format: simple_json
           locale_id: en
           update_translations: true
+          tags: custom_tag
 
   pull:
     targets:
