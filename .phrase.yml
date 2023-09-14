@@ -1,105 +1,16 @@
 phrase:
-  project_id: 827b39bc76a90522ecb2b28d1312f7b1 #BMA-Demo3_ios&android
-  #file_format: 
+  project_id: 827b39bc76a90522ecb2b28d1312f7b1
+
   push:
     sources:
-      - file: ./res/values/strings.xml
+      - file: ./<locale_name>.json
         params:
-          file_format: xml
+          file_format: simple_json
+          locale_id: en
           update_translations: true
-          tags: android
-          locale_id: en-US
-      - file: ./res/values-de/strings.xml
-        params:
-          file_format: xml
-          update_translations: true
-          tags: android
-          locale_id: de-DE
-      - file: ./res/values-es/strings.xml
-        params:
-          file_format: xml
-          update_translations: true
-          tags: android
-          locale_id: es-ES
-      - file: ./res/values-fr/strings.xml
-        params:
-          update_translations: true
-          locale_id: fr-FR
-      - file: ./res/values-pl/strings.xml
-        params:
-          file_format: xml
-          update_translations: true
-          tags: android
-          locale_id: pl-PL
-      - file: ./ios/en.lproj/Netpulse.strings
-        params:
-          file_format: strings
-          update_translations: true
-          tags: iOS
-          locale_id: en-US
-      - file: ./ios/de.lproj/Netpulse.strings
-        params:
-          file_format: strings
-          update_translations: true
-          tags: iOS
-      - file: ./ios/es.lproj/Netpulse.strings
-        params:
-          file_format: strings
-          update_translations: true
-          tags: iOS
-          locale_id: es-ES
-      - file: ./ios/fr.lproj/Netpulse.strings
-        params:
-          file_format: strings
-          update_translations: true
-          tags: iOS
-          locale_id: fr-FR
-      - file: ./ios/pl.lproj/Netpulse.strings
-        params:
-          file_format: strings
-          update_translations: true
-          tags: iOS
-          locale_id: pl-PL
-  
+
   pull:
     targets:
-      - file: ./res/values/strings.xml
+      - file: ./<locale_name>.json
         params:
-          locale_id: en-US
-          tags: android
-      - file: ./res/values-de/strings.xml
-        params:
-          locale_id: de-DE
-          tags: android
-      - file: ./res/values-es/strings.xml
-        params:
-          locale_id: es-ES
-          tags: android
-      - file: ./res/values-fr/strings.xml
-        params:
-          locale_id: fr-FR
-          tags: android
-      - file: ./res/values-pl/strings.xml
-        params:
-          locale_id: pl-PL
-          tags: android
-      - file: ./ios/en.lproj/Netpulse.strings
-        params:
-          tags: iOS
-          locale_id: en-US
-      - file: ./ios/de.lproj/Netpulse.strings
-        params:
-          tags: iOS
-          locale_id: de-DE
-      - file: ./ios/es.lproj/Netpulse.strings
-        params:
-          tags: iOS
-          locale_id: es-ES
-      - file: ./ios/fr.lproj/Netpulse.strings
-        params:
-          tags: iOS
-          locale_id: fr-FR
-      - file: ./ios/pl.lproj/Netpulse.strings
-        params:
-          tags: iOS
-          locale_id: pl-PL
+          file_format: simple_json
