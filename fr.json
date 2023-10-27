@@ -1,0 +1,17 @@
+{
+  "app.cart": "Ajouter au chariot",
+  "app.describe": "Le meilleur endroit pour découvrir de merveilleux meubles de maison pour rendre votre maison belle",
+  "app.get_started": "Démarrer",
+  "app.greeting": "Bienvenue",
+  "app.header": "RENDEZ VOTRE MAISON BELLE",
+  "app.product.description": "Ce support est en bois naturel. Le design est très simple et minimal. C’est vraiment l’une des meilleures pièces pour n’importe quelle maison. Disponible en 3 couleurs différentes, vous pouvez facilement sélectionner le meilleur match pour votre maison.",
+  "app.product.title": "Support minimal",
+  "app.rating_value": "4,5",
+  "app.reviews": "{{count}} Clients",
+  "app.sign_in": "Connexion",
+  "app.signin.email": "Messagerie",
+  "app.signup": "s'enregistrer",
+  "app.signup.password": "Mot de passe",
+  "app.signup.password_forgot": "Mot de passe oublié?",
+  "app.welcome": "Salut!"
+}
