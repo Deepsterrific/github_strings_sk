@@ -1,0 +1,17 @@
+{
+  "app.cart": "Agregar al carrito",
+  "app.describe": "El mejor lugar para descubrir maravillosos muebles para el hogar para hacer que su hogar sea hermoso",
+  "app.get_started": "Empezar",
+  "app.greeting": "Bienvenido",
+  "app.header": "HAZ QUE TU HOGAR SEA HERMOSO",
+  "app.product.description": "Este soporte está hecho de madera natural. El diseño es muy simple y minimalista. Esta es realmente una de las mejores piezas para cualquier hogar. Disponible en 3 colores diferentes, puede seleccionar fácilmente la mejor combinación para su hogar.",
+  "app.product.title": "Perchero mínimo",
+  "app.rating_value": "4.5",
+  "app.reviews": "{{count}} Comentarios",
+  "app.sign_in": "Inicia sesión",
+  "app.signin.email": "Correo electrónico",
+  "app.signup": "Únete",
+  "app.signup.password": "Contraseña",
+  "app.signup.password_forgot": "¿olvidó la contraseña?",
+  "app.welcome": "¡Hola!"
+}
