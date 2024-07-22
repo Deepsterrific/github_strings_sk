@@ -1,17 +1,17 @@
 {
   "app.cart": "Ajouter au panier",
-  "app.describe": "Le meilleur endroit pour découvrir de superbes meubles pour embellir votre maison",
+  "app.describe": "Le meilleur endroit pour découvrir de merveilleux meubles de maison pour rendre votre maison belle",
   "app.get_started": "Commencer",
-  "app.greeting": "Bienvenue à nouveau",
-  "app.headline": "EMBELLIR VOTRE MAISON",
-  "app.product.description": "Ce support est en bois naturel. Le design est très simple et minimal. C'est vraiment l'une des meilleures pièces pour toute maison. Disponible en 3 couleurs différentes, vous pouvez facilement choisir celle qui convient le mieux à votre maison. ",
+  "app.greeting": "Bienvenue",
+  "app.headline": "RENDEZ VOTRE MAISON BELLE",
+  "app.product.description": "Ce stand est fait de bois naturel. Le design est très simple et minimal. C'est vraiment l'un des meilleurs morceaux pour toute maison. Disponible en 3 couleurs différentes, vous pouvez facilement choisir la meilleure correspondance pour votre maison. ",
   "app.product.title": "Stand minimal",
   "app.rating_value": "4.5",
-  "app.reviews": "{{count}} revues",
-  "app.sign_in": "S'INSCRIRE",
-  "app.signin.email": "Courriel",
+  "app.reviews": "{{count}} avis",
+  "app.sign_in": "SE CONNECTER",
+  "app.signin.email": "E-mail",
   "app.signup": "S'INSCRIRE",
   "app.signup.password": "Mot de passe",
   "app.signup.password_forgot": "Mot de passe oublié ?",
-  "app.welcome": "Bonjour !"
+  "app.welcome": "Bonjour!"
 }
